@@ -39,7 +39,7 @@ healPrice = 100, -- Precio del tratamiento
 
 ## Créditos
 - Desarrollado para QB-Core Framework
-- Creado por [Tu Nombre/Organización]
+- Creado por Pardo
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
